@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thoughts, notes and ideas unfiltered.
 
 You can use the [editor on GitHub](https://github.com/lifeofmjw/mjw_reimagined/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
